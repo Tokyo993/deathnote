@@ -10,3 +10,8 @@ __pycache__/
 
 # optional (if you ever add it)
 .DS_Store
+
+# sqlite WAL files
+*.db-wal
+*.db-shm
+*.db-journal
